@@ -1,0 +1,11 @@
+C:\Users\jhong\OneDrive\Documentos\Workspace\ManagerTaks\ManagerTask.Communication\bin\Debug\net8.0\ManagerTask.Communication.deps.json
+C:\Users\jhong\OneDrive\Documentos\Workspace\ManagerTaks\ManagerTask.Communication\bin\Debug\net8.0\ManagerTask.Communication.dll
+C:\Users\jhong\OneDrive\Documentos\Workspace\ManagerTaks\ManagerTask.Communication\bin\Debug\net8.0\ManagerTask.Communication.pdb
+C:\Users\jhong\OneDrive\Documentos\Workspace\ManagerTaks\ManagerTask.Communication\obj\Debug\net8.0\ManagerTask.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhong\OneDrive\Documentos\Workspace\ManagerTaks\ManagerTask.Communication\obj\Debug\net8.0\ManagerTask.Communication.AssemblyInfoInputs.cache
+C:\Users\jhong\OneDrive\Documentos\Workspace\ManagerTaks\ManagerTask.Communication\obj\Debug\net8.0\ManagerTask.Communication.AssemblyInfo.cs
+C:\Users\jhong\OneDrive\Documentos\Workspace\ManagerTaks\ManagerTask.Communication\obj\Debug\net8.0\ManagerTask.Communication.csproj.CoreCompileInputs.cache
+C:\Users\jhong\OneDrive\Documentos\Workspace\ManagerTaks\ManagerTask.Communication\obj\Debug\net8.0\ManagerTask.Communication.dll
+C:\Users\jhong\OneDrive\Documentos\Workspace\ManagerTaks\ManagerTask.Communication\obj\Debug\net8.0\refint\ManagerTask.Communication.dll
+C:\Users\jhong\OneDrive\Documentos\Workspace\ManagerTaks\ManagerTask.Communication\obj\Debug\net8.0\ManagerTask.Communication.pdb
+C:\Users\jhong\OneDrive\Documentos\Workspace\ManagerTaks\ManagerTask.Communication\obj\Debug\net8.0\ref\ManagerTask.Communication.dll
